@@ -1,5 +1,7 @@
 # Trader Behavior Insights
 
+How to run : DOWNLOAD ipynb file and run all.
+
 Methodology
 1. Data Preparation
 
